@@ -1,0 +1,5 @@
+hello this is the file created on feature branch userreg.
+and adding this file thru terminal
+
+
+
